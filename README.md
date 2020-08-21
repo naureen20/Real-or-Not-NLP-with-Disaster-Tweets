@@ -49,6 +49,6 @@ EDA performed on data sets are
   
   4.2 Plotting accuracy and loss curves
   
-  <img src="https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Vgg16LearningRate.png">
+  <img src="https://github.com/naureen20/Real-or-Not-NLP-with-Disaster-Tweets/blob/master/loss_acc_plot.png">
   
   4.3 LSTM with Glove Results
