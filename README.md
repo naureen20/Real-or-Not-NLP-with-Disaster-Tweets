@@ -15,7 +15,7 @@ The model gave an accuracy of 80% on both train and validation data set with lea
 
 ### EDA performed on data sets are 
 
-> <a href='https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Animal_10.ipynb#step3.1'>1. Data processing </a>
+> <a href='https://github.com/naureen20/Real-or-Not-NLP-with-Disaster-Tweets/blob/master/nlp-on-disaster-tweet.ipynb'>1. Data processing </a>
 
   >> 1.1 Handling Misspelled data
   
@@ -30,7 +30,7 @@ The model gave an accuracy of 80% on both train and validation data set with lea
   >> 1.6 Collecting all words
   
   
-> <a href='https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Animal_10.ipynb#step3.1'>2. Visualizing and data attributes  </a>
+> <a href='https://github.com/naureen20/Real-or-Not-NLP-with-Disaster-Tweets/blob/master/nlp-on-disaster-tweet.ipynb'>2. Visualizing and data attributes  </a>
 
   >> 2.1 Viewing most common stop words used in tweets
   
@@ -41,7 +41,7 @@ The model gave an accuracy of 80% on both train and validation data set with lea
   >> 2.4 N-gram analysis
   
   
->  <a href='https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Animal_10.ipynb#step3.1'>3. Data cleaning </a>
+>  <a href='https://github.com/naureen20/Real-or-Not-NLP-with-Disaster-Tweets/blob/master/nlp-on-disaster-tweet.ipynb'>3. Data cleaning </a>
 
   >> 3.1 Cleaning URLs and HTML tags
   
@@ -54,7 +54,7 @@ The model gave an accuracy of 80% on both train and validation data set with lea
   3.5 Train-Test split
   
   
-><a href='https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Animal_10.ipynb#step3.1'> 4. Creating Model</a>
+><a href='https://github.com/naureen20/Real-or-Not-NLP-with-Disaster-Tweets/blob/master/nlp-on-disaster-tweet.ipynb'> 4. Creating Model</a>
 
   >> 4.1 LSTM Model with Glove Embeddings
   
