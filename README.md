@@ -1,6 +1,10 @@
 # Real-or-Not-NLP-with-Disaster-Tweets
 Classifying whether a disaster tweet is real or not using LSTM and GloVe word embeddings.
-The model gave an accuracy of 80% on both train and validation data set with learning rate 5e-5, predicting whether a given tweet is about a real disaster or not. If so, predicted as 1. If not, predicted as 0. The datasets have been taken from href=https://www.kaggle.com/c/nlp-getting-started/data>Kaggle Data sets</a>
+The model gave an accuracy of 80% on both train and validation data set with learning rate 5e-5, predicting whether a given tweet is about a real disaster or not. If so, predicted as 1. If not, predicted as 0. The datasets have been taken from <a href=https://www.kaggle.com/c/nlp-getting-started/data>Kaggle Data sets</a>
+
+
+The kaggle notebook can be viewed <a href='https://www.kaggle.com/naureenmohammad/nlp-on-disaster-tweet-final'>here </a>
+
 
 > Each sample in the train and test set has the information about the text of a tweet, A keyword from that tweet (although this may be blank!) and The location the tweet was sent from (may also be blank)
 
