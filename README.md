@@ -1,4 +1,4 @@
-# Real-or-Not-NLP-with-Disaster-Tweets
+# Real or Not? NLP with Disaster Tweets.
 Classifying whether a disaster tweet is real or not using **RNN with LSTM and GloVe word embeddings**.
 The model gave an **accuracy of 80% on both train and validation data set** with learning rate 5e-5, predicting whether a given tweet is about a real disaster or not. If so, predicted as 1. If not, predicted as 0. The datasets have been taken from <a href=https://www.kaggle.com/c/nlp-getting-started/data>Kaggle Data sets</a>
 
